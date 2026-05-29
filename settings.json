@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "HangoutSMPssn1.aternos.me:49742",
+    "ip": "HangoutSMPssn1.aternos.me",
     "port": 49742,
     "version": "1.21.11",
     "try-creative": false
